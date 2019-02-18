@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+  <Type Id="Alumno1">
+    <Class>Reflection.Alumno</Class>
+    <IdAlumno>1</IdAlumno>
+    <Nombre>Pepe</Nombre>
+    <Apellidos>Soto</Apellidos>
+    <Dni>3243434x</Dni>
+  </Type>
+  <Type Id="Alumno2">
+    <Class>Reflection.Alumno</Class>
+    <IdAlumno>2</IdAlumno>
+    <Nombre>Jose</Nombre>
+    <Apellidos>Mota</Apellidos>
+    <Dni>5553434x</Dni>
+  </Type>
+</Types>
